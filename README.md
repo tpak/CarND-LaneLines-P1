@@ -52,7 +52,7 @@ I smoothed them out with some simple things:
 ## Videos
 In the bonus video I was able to try in some of my initial atttempts but when I added in the smoothing I broke something and am out of time. I think the reflections and glare on the hood and side of the road were causing issues. I was going to have a look at the greayscale conversion to see if we could tone down the brightspots.
 
-### video example
+
 [example output]: https://github.com/tpak/CarND-LaneLines-P1/blob/master/test_videos_output/solidWhiteRight.mp4 "Solid White Line Video"
 
 [example output]: ./test_videos_output/solidYellowLeft.mp4 "Solid Yellow Line Video"
